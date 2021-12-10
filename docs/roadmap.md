@@ -29,7 +29,7 @@ Should we have multiple lists? one for game api, one for client support, one for
 |❌| Pathfinder||
 |❌| Constants ||
 |❌| [Map]((src/game/map.ts)) ||  
-|❌| map visuals|| #17
+|❌| map visuals||   [#17](https://github.com/laverdet/xxscreeps/issues/17)
 |❌| room visuals||
 |❌| invaders||
 |❌| market||
@@ -47,7 +47,7 @@ Should we have multiple lists? one for game api, one for client support, one for
 |❌| Source ||
 |❌| Container ||
 |❌| Controller ||
-|❌| Extension || #33
+|❌| Extension || [#33](https://github.com/laverdet/xxscreeps/issues/33)
 |❌| Extractor ||
 |❌| Factory ||
 |❌| InvaderCore ||
@@ -60,7 +60,7 @@ Should we have multiple lists? one for game api, one for client support, one for
 |❌| Power Bank ||
 |❌| Power Spawn ||
 |❌| Portal ||
-|❌| Rampart || #35
+|❌| Rampart || [#35](https://github.com/laverdet/xxscreeps/issues/35)
 |❌| Road | | [pathfinder tests with roads]((src/mods/road/test.ts))
 |✔| Spawn |100| [test](src/mods/spawn/test.ts) verifies spawn direction, setting direction, cancel spawning, selecting extensions for energy, renewing TTL, destroy, unclaim
 |❌| Storage ||
@@ -68,7 +68,7 @@ Should we have multiple lists? one for game api, one for client support, one for
 |❌| Tower ||
 |❌| Wall ||
 |❌| Tombstone ||
-|❌| Event Log || #39 [project card](https://github.com/laverdet/xxscreeps/projects/1#card-65749335)
+|❌| Event Log || [#39](https://github.com/laverdet/xxscreeps/issues/39) [project card](https://github.com/laverdet/xxscreeps/projects/1#card-65749335)
 |❌| Stats|| https://github.com/laverdet/xxscreeps/projects/1#card-63686778
 |❌| caravans||
 |❌| auth tokens ||
