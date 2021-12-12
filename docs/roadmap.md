@@ -36,7 +36,7 @@ example of writing tests https://github.com/laverdet/xxscreeps/pull/40/files
 |✔| &nbsp;&nbsp;&nbsp;&nbsp;Tower ||
 || **RCL 4**||
 |✔| &nbsp;&nbsp;&nbsp;&nbsp;Extension x 20 || 
-|❌| &nbsp;&nbsp;&nbsp;&nbsp;Storage ||
+|✔| &nbsp;&nbsp;&nbsp;&nbsp;Storage ||
 || **RCL 5**||
 |✔| Extension x 30 || 
 |❌| &nbsp;&nbsp;&nbsp;&nbsp;Tower x 2 ||
