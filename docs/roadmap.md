@@ -133,6 +133,7 @@ example of writing tests https://github.com/laverdet/xxscreeps/pull/40/files
 |❌| **Messages** ||
 |❌| show messages || 404 /api/user/messages/index
 |❌| **Overview** ||
+|❌|room overview|| 404 GET /api/game/room-overview?interval=8&room=W45N17&shard=shard0
 |❌|get terrain / room rendering || 404 /api/game/room-terrain?encoded=true should return error
 |❌|get terrain || 404 /api/game/room-terrain?encoded=true&shard=shard0
 |❌||| GET /api/leaderboard/find?mode=world&username=thmsn returns an empty list
@@ -141,6 +142,7 @@ example of writing tests https://github.com/laverdet/xxscreeps/pull/40/files
 |❌| Stats|| https://github.com/laverdet/xxscreeps/projects/1#card-63686778
 |❌||| 404 /api/user/overview?interval=8&statName=energyHarvested
 |❌|toggle steam user profile visibility|| /api/user/set-steam-visible
+|❌| **Replay Room History** || 404 GET /room-history?room=W45N17&time=33416800
 
 
 # Backend / Api
